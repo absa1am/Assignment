@@ -1,6 +1,6 @@
 <?php
 
-// Input: Size of two dim array
+// Input: n x n size array
 fscanf(STDIN, "%d\n", $n);
 
 // Input: Array element
