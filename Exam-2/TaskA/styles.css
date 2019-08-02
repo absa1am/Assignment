@@ -33,6 +33,16 @@
   background: #fad6a6;
 }
 
+.login {
+  top: 2vh;
+  left: 40vw;
+  right: 22vw;
+  width: 19vw;
+  height: 40vh;
+  position: relative;
+  background: #ffda8e;
+}
+
 .content {
   left: 20vw;
   width: 60vw;
