@@ -38,9 +38,31 @@
   left: 40vw;
   right: 22vw;
   width: 19vw;
-  height: 40vh;
+  height: 25vh;
   position: relative;
   background: #ffda8e;
+}
+
+.login form {
+  top: 2vw;
+  left: 2vw;
+  display: block;
+  position: absolute;
+}
+
+.login input {
+  width: 30vh;
+  height: 4vh;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.login button {
+  float: right;
+  width: 10vh;
+  height: 5vh;
+  border-style: none;
+  background: white;
 }
 
 .content {
